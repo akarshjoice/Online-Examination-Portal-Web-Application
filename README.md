@@ -10,15 +10,13 @@ An Online Examination Portal for conducting online examination for Fresher recru
 ***
 # Backend End
 ***
-- [PHP](http://php.net/) - A popular general-purpose scripting language that is especially suited to web development.)
+- [PHP](http://php.net/) - A popular general-purpose scripting language that is especially suited to web development.
 ***
 # Data Base
 ***
 - [MySQL](http://www.mysql.com/)
 ***
-
 # Demo:
-
 
 ![image](https://user-images.githubusercontent.com/48875236/107132676-022cfb80-68af-11eb-92eb-33a5b6db05e6.png)
 #
