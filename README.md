@@ -1,7 +1,7 @@
 An Online Examination Portal for conducting online examination for Fresher recruitment .<br>
-Front End : HTML,CSS,JavaScript
-Backend : PHP
-Database : MySql
+Front End : HTML,CSS,JavaScript <br>
+Backend : PHP <br>
+Database : MySql <br>
 
 # Demo:
 
